@@ -1,0 +1,19 @@
+{
+    "name": "free-agario-bots",
+    "version": "1.0.1",
+    "description": "Free open source agar.io bots",
+    "author": "Nel-Jimboy3100",
+    "license": "GNU General Public License (GPL)",
+    "dependencies": {
+        "colour": "^0.7.1",
+        "murmurhash-js": "^1.0.0",
+        "request": "^2.88.0",
+        "request-promise": "^4.2.4",
+        "ssl-root-cas": "^1.3.1",
+        "ws": "^7.2.5"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://legendmod.ml/ExampleScripts/agario-bots2/"
+    }
+}
